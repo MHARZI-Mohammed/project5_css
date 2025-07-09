@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.container{
+    width: 100%;
+    height: 100vh;
+}
+.nav{
+    width: 100%;
+    height: 120px;
+    background-color: rgb(48, 161, 124);
+    align-items: center;
+    text-align: center;
+}
+.title1{
+    font-weight: 700;
+    color: white;
+    padding-top: 20px;
+}
+.title2{
+    font-weight: 600;
+    color: white;
+    padding-top: 20px;
+}
+span{
+    font-weight: 700;
+    color: white;
+}
+.nav1{
+    background-color: rgb(38, 39, 40);
+    width: 100%;
+    height: 60px;
+}
+.nav1 ul{
+    display: flex;
+}
+li{
+    padding-left: 20px;
+    padding-right: 20px;
+    text-decoration: none;
+    font-weight: 600;
+    list-style: none;
+    color: white;
+    padding-top: 20px;
+    cursor: pointer;
+}
+.right-content{
+    width: 40%;
+    background-color: rgb(221, 221, 221);
+}
+.title3{
+    color: black;
+    font-weight: 700;
+    padding-left: 15px;
+    padding-top: 40px;
+}
+.title4{
+    color: black;
+    font-weight: 700;
+    padding-left: 15px;
+    padding-top: 35px;
+}
+.para{
+    width: 550px;
+    height: 100px;
+    background-color: rgb(181, 181, 181);
+    padding-top: 25px;
+    padding-left: 10px;
+    margin: 15px;
+}
+.para1{
+    color: black;
+    padding-left: 15px;
+    padding-top: 25px;
+}
+.title5{
+    color: black;
+    font-weight: 700;
+    padding-left: 15px;
+    padding-top: 25px;
+}
+.para0{
+    color: black;
+    padding-left: 15px;
+    padding-top: 25px;
+    padding-bottom: 20px;
+}
+.main{
+    display: flex;
+}
+.left-content{
+    width: 60%;
+    background-color: rgba(221, 221, 221, 0.515);
+}
+.title6{
+    color: black;
+    font-weight: 700;
+    padding-left: 15px;
+    padding-top: 40px;
+    text-transform: uppercase;
+}
+.title7{
+    color: black;
+    font-weight: 700;
+    padding-left: 15px;
+    padding-top: 35px;
+}
+.para2{
+    width: 850px;
+    height: 200px;
+    background-color: rgb(181, 181, 181);
+    padding-top: 25px;
+    padding-left: 10px;
+    margin: 15px;
+}
+.para3{
+    color: black;
+    padding-left: 15px;
+    padding-top: 25px;
+    padding-bottom: 70px;
+}
+.footer{
+    background-color: rgb(193, 190, 190);
+    width: 100%;
+    height: 138px;
+}
+.title8{
+    text-align: center;
+    font-weight: 700;
+    padding-top: 45px;
+}
