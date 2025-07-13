@@ -131,3 +131,32 @@ li{
     font-weight: 700;
     padding-top: 45px;
 }
+@media screen and (max-width: 700px) {
+    .main{
+    display: block;
+    }
+    .right-content{
+    width: 100%;
+    background-color: rgb(221, 221, 221);
+    }
+    .left-content{
+    width: 100%;
+    background-color: rgba(221, 221, 221, 0.515);
+    }
+    .para{
+    width: 640px;
+    height: 100px;
+    background-color: rgb(181, 181, 181);
+    padding-top: 25px;
+    padding-left: 10px;
+    margin: 15px;
+    }
+    .para2{
+    width: 640px;
+    height: 200px;
+    background-color: rgb(181, 181, 181);
+    padding-top: 25px;
+    padding-left: 10px;
+    margin: 15px;
+    }
+}
